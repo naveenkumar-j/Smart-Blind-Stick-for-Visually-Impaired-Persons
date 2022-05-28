@@ -3,7 +3,8 @@
 - we develop a tool that can serve as a smart blind stick being more efficient andhelpful than the conventional one. 
 - Currently, there are thousands of blind people all over the globe. Theseincludepeople from low sightseeing to complete loss of vision. They findit verydifficult while crossing the road or reaching their respective destinationwiththe help of any other individual. The traditional stick cannot helptodetect theobstacles in front of the potholes in the way. It is outdated. Hence thereisaneed to update it using today's technology.
 
-# Circuit Design:
+# Circuit Design:[tinkercad link](https://www.tinkercad.com/things/4ZLyFO3M9FP-smart-blind-stick/editel)
+
 
 ![circuit](https://user-images.githubusercontent.com/70682152/162551527-5411271d-e00d-4e5c-b1e4-6704a0426d9e.PNG)
 
