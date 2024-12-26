@@ -1,4 +1,4 @@
-<h1 align="center">Smart Blind Stick for Visually Impaired Persons<h1>
+<h1 align="center" id="app">Smart Blind Stick for Visually Impaired Persons<h1>
 
 ## About project:
 - Our main objective of this project is to design a simple, effective, andlow-costsmart blind stick for blind people to detect the obstacles in various directions,temperatures, and Day/Night to make blind persons free to walk. 
@@ -14,5 +14,5 @@
 ![image](https://user-images.githubusercontent.com/70682152/162551584-8515151c-0711-4908-b3c2-08db410f5b5a.png)
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#app">↥ back to top</a></b>
 </div>
